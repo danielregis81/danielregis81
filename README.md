@@ -1,6 +1,8 @@
 # Hi, I'm Daniel 👋
 
-🇧🇷 Brazilian amateur radio operator **PP5RD** and IT professional.
+*[Leia em Português](README.pt-BR.md)*
+
+Brazilian amateur radio operator **PP5RD** and IT professional.
 
 ## About me
 
@@ -30,4 +32,4 @@ I work in **infrastructure and IT support**, currently starting my journey into 
 
 ---
 
-*73 de PP5RD* 🇧🇷
+*73 de PP5RD*
