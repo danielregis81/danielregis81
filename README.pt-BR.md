@@ -10,6 +10,8 @@ Trabalho com **infraestrutura e microinformática**, atualmente iniciando minha 
 
 ## Projetos em destaque
 
+🌐 **[ESP32-HAM-CLOCK-ptbr](https://github.com/danielregis81/ESP32-HAM-CLOCK-ptbr/tree/feature/pt-br)** — Fork do HAM Clock do SP3KON com tradução para Português (Brasil) e tamanho de tabela MEDIUM. Terminal DX Cluster, POTA, APRS-IS para ESP32 CYD.
+
 📻 **[pistar-cyd-panel](https://github.com/danielregis81/pistar-cyd-panel)** — Painel "quem está falando" para hotspot DMR Pi-Star em display ESP32 CYD. Meu hotspot tem uma telinha OLED de 0.96", então construí este painel externo para mostrar mais informações: bandeira, nome, país, tempo de QSO e mais.
 
 🚩 **[pistar-flags-dash](https://github.com/danielregis81/pistar-flags-dash)** — Bandeiras de países, nome do operador e código do país na lista Last Heard do dashboard oficial do Pi-Star. Leve o suficiente para rodar em um Raspberry Pi Zero W.
@@ -23,8 +25,6 @@ Trabalho com **infraestrutura e microinformática**, atualmente iniciando minha 
 🔊 **[onair-codecs](https://github.com/danielregis81/onair-codecs)** — Plugins de codec de voz DMR (AMBE+2) e TETRA para o receptor SDR OnAir (Windows). Construído em torno do mbelib-neo.
 
 ⏰ **[CYD_clock](https://github.com/danielregis81/CYD_clock)** — Relógio digital com previsão do tempo e alarmes para display ESP32 CYD 2.8". Meu primeiro projeto com Arduino e CYD — portal captive para config WiFi, sincronização NTP, integração com OpenWeatherMap.
-
-🌐 **[ESP32-HAM-CLOCK-ptbr](https://github.com/danielregis81/ESP32-HAM-CLOCK-ptbr/tree/feature/pt-br)** — Fork do HAM Clock do SP3KON com tradução para Português (Brasil) e tamanho de tabela MEDIUM. Terminal DX Cluster, POTA, APRS-IS para ESP32 CYD.
 
 ## Tecnologias e interesses
 

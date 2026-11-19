@@ -10,6 +10,8 @@ I work in **infrastructure and IT support**, currently starting my journey into 
 
 ## Featured projects
 
+🌐 **[ESP32-HAM-CLOCK-ptbr](https://github.com/danielregis81/ESP32-HAM-CLOCK-ptbr/tree/feature/pt-br)** — Fork of SP3KON's HAM Clock with Portuguese (Brazil) translation and MEDIUM table size. DX Cluster, POTA, APRS-IS terminal for ESP32 CYD.
+
 📻 **[pistar-cyd-panel](https://github.com/danielregis81/pistar-cyd-panel)** — "Who's talking" panel for Pi-Star DMR hotspot on ESP32 CYD display. My hotspot has a tiny 0.96" OLED, so I built this external panel to show more info: flag, name, country, QSO timer and more.
 
 🚩 **[pistar-flags-dash](https://github.com/danielregis81/pistar-flags-dash)** — Country flags, operator name and country code in the Last Heard list of the official Pi-Star dashboard. Lightweight enough for a Raspberry Pi Zero W.
@@ -23,8 +25,6 @@ I work in **infrastructure and IT support**, currently starting my journey into 
 🔊 **[onair-codecs](https://github.com/danielregis81/onair-codecs)** — DMR (AMBE+2) and TETRA voice codec plugins for the OnAir SDR receiver (Windows). Built around mbelib-neo.
 
 ⏰ **[CYD_clock](https://github.com/danielregis81/CYD_clock)** — Digital clock with weather forecast and alarms for ESP32 CYD 2.8" display. My first project with Arduino and CYD — captive portal for WiFi config, NTP sync, OpenWeatherMap integration.
-
-🌐 **[ESP32-HAM-CLOCK-ptbr](https://github.com/danielregis81/ESP32-HAM-CLOCK-ptbr/tree/feature/pt-br)** — Fork of SP3KON's HAM Clock with Portuguese (Brazil) translation and MEDIUM table size. DX Cluster, POTA, APRS-IS terminal for ESP32 CYD.
 
 ## Tech & interests
 
