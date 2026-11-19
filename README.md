@@ -49,7 +49,7 @@ I work in **infrastructure and IT support**, currently starting my journey into 
 
 ## Contact
 
-- 📧 daniel.regis@gmail.com
+- 📧 contato@pp5rd.com.br
 - 🌐 [pp5rd.com.br](https://pp5rd.com.br)
 - 📻 [QRZ.com/db/PP5RD](https://www.qrz.com/db/PP5RD)
 
