@@ -28,11 +28,24 @@ Trabalho com **infraestrutura e microinformática**, atualmente iniciando minha 
 
 ## Tecnologias e interesses
 
-- **Radioamadorismo**: DMR, Pi-Star, hotspots, SDR (RTL-SDR, decodificação TETRA)
-- **Embarcados**: ESP32, Arduino, displays e-ink
-- **Mobile**: Android/Kotlin
-- **Backend**: Python, Docker, servidores Linux
-- **Infraestrutura**: Cloudflare Tunnels, self-hosting
+**Radioamadorismo**
+- Modos digitais: DMR, D-Star, C4FM, APRS
+- Pi-Star, hotspots MMDVM, RTL-SDR
+- DX Cluster, POTA, decodificação TETRA
+
+**Embarcados & Hardware**
+- ESP32, Arduino, displays CYD, e-ink
+
+**Software & Dados**
+- Python, Kotlin/Android, Bash
+- Docker, servidores Linux, nginx
+- Análise de dados (cursando pelo programa SCTEC/Governo de SC)
+
+**Aprendendo**
+- DevOps, CI/CD, Infrastructure as Code
+
+**Outros interesses**
+- Motos e viagens 🏍️
 
 ## Contato
 

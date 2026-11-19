@@ -28,11 +28,24 @@ I work in **infrastructure and IT support**, currently starting my journey into 
 
 ## Tech & interests
 
-- **Amateur radio**: DMR, Pi-Star, hotspots, SDR (RTL-SDR, TETRA decoding)
-- **Embedded**: ESP32, Arduino, e-ink displays
-- **Mobile**: Android/Kotlin
-- **Backend**: Python, Docker, Linux servers
-- **Infrastructure**: Cloudflare Tunnels, self-hosting
+**Amateur radio**
+- Digital modes: DMR, D-Star, C4FM, APRS
+- Pi-Star, MMDVM hotspots, RTL-SDR
+- DX Cluster, POTA, TETRA decoding
+
+**Embedded & Hardware**
+- ESP32, Arduino, CYD displays, e-ink
+
+**Software & Data**
+- Python, Kotlin/Android, Bash
+- Docker, Linux servers, nginx
+- Data analysis (studying through SCTEC/SC government program)
+
+**Learning**
+- DevOps, CI/CD, Infrastructure as Code
+
+**Other interests**
+- Motorcycles and road trips 🏍️
 
 ## Contact
 
