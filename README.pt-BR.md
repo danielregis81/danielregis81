@@ -20,6 +20,8 @@ Trabalho com **infraestrutura e microinformática**, atualmente iniciando minha 
 
 🔢 **[pp5rd-dmr](https://github.com/danielregis81/pp5rd-dmr)** — Conversor de base de dados DMR ID. A base do RadioID.net tem campos longos demais para a tela do meu rádio Radtel RT-4D, então fiz esta ferramenta para formatar corretamente.
 
+🔊 **[onair-codecs](https://github.com/danielregis81/onair-codecs)** — Plugins de codec de voz DMR (AMBE+2) e TETRA para o receptor SDR OnAir (Windows). Construído em torno do mbelib-neo.
+
 ## Tecnologias e interesses
 
 - **Radioamadorismo**: DMR, Pi-Star, hotspots, SDR (RTL-SDR, decodificação TETRA)

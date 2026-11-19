@@ -20,6 +20,8 @@ I work in **infrastructure and IT support**, currently starting my journey into 
 
 🔢 **[pp5rd-dmr](https://github.com/danielregis81/pp5rd-dmr)** — DMR ID database converter. The RadioID.net database has fields too long for my Radtel RT-4D's display, so I built this tool to format it properly.
 
+🔊 **[onair-codecs](https://github.com/danielregis81/onair-codecs)** — DMR (AMBE+2) and TETRA voice codec plugins for the OnAir SDR receiver (Windows). Built around mbelib-neo.
+
 ## Tech & interests
 
 - **Amateur radio**: DMR, Pi-Star, hotspots, SDR (RTL-SDR, TETRA decoding)
