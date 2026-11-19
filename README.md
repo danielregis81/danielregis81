@@ -22,7 +22,7 @@ I work in **infrastructure and IT support**, currently starting my journey into 
 
 🔊 **[onair-codecs](https://github.com/danielregis81/onair-codecs)** — DMR (AMBE+2) and TETRA voice codec plugins for the OnAir SDR receiver (Windows). Built around mbelib-neo.
 
-⏰ **[CYD](https://github.com/danielregis81/CYD)** — Digital clock with weather forecast and alarms for ESP32 CYD 2.8" display. My first project with Arduino and CYD — captive portal for WiFi config, NTP sync, OpenWeatherMap integration.
+⏰ **[CYD_clock](https://github.com/danielregis81/CYD_clock)** — Digital clock with weather forecast and alarms for ESP32 CYD 2.8" display. My first project with Arduino and CYD — captive portal for WiFi config, NTP sync, OpenWeatherMap integration.
 
 ## Tech & interests
 
