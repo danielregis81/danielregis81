@@ -24,6 +24,8 @@ I work in **infrastructure and IT support**, currently starting my journey into 
 
 ⏰ **[CYD_clock](https://github.com/danielregis81/CYD_clock)** — Digital clock with weather forecast and alarms for ESP32 CYD 2.8" display. My first project with Arduino and CYD — captive portal for WiFi config, NTP sync, OpenWeatherMap integration.
 
+🌐 **[ESP32-HAM-CLOCK-ptbr](https://github.com/danielregis81/ESP32-HAM-CLOCK-ptbr/tree/feature/pt-br)** — Fork of SP3KON's HAM Clock with Portuguese (Brazil) translation and MEDIUM table size. DX Cluster, POTA, APRS-IS terminal for ESP32 CYD.
+
 ## Tech & interests
 
 - **Amateur radio**: DMR, Pi-Star, hotspots, SDR (RTL-SDR, TETRA decoding)
