@@ -1,18 +1,18 @@
 # Hi, I'm Daniel 👋
 
-🇧🇷 Brazilian amateur radio operator **PP5RD** and software developer.
+🇧🇷 Brazilian amateur radio operator **PP5RD** and IT professional.
 
-## What I do
+## About me
 
-I build tools for amateur radio and home server monitoring — mostly solving my own problems and sharing the code in case it helps someone else.
+I work in **infrastructure and IT support**, currently starting my journey into **DevOps**. With the help of AI, I've been venturing into personal projects to solve problems I have (or create for myself 😄) — and it's been very rewarding. I share them here hoping they might be useful to someone else.
 
-### Featured projects
+## Featured projects
 
-📻 **[pistar-cyd-panel](https://github.com/danielregis81/pistar-cyd-panel)** — "Who's talking" panel for Pi-Star DMR hotspot on ESP32 CYD display
+📻 **[pistar-cyd-panel](https://github.com/danielregis81/pistar-cyd-panel)** — "Who's talking" panel for Pi-Star DMR hotspot on ESP32 CYD display. My hotspot has a tiny 0.96" OLED, so I built this external panel to show more info: flag, name, country, QSO timer and more.
 
-📱 **[pp5rd-status-app](https://github.com/danielregis81/pp5rd-status-app)** — Android dashboard for home server monitoring (repurposed old phone)
+📱 **[pp5rd-status-app](https://github.com/danielregis81/pp5rd-status-app)** — Android dashboard for home server monitoring, built for a repurposed old phone. Started as an Android version of the CYD panel and grew into a full 6-screen server monitor.
 
-📋 **[domingueira](https://github.com/danielregis81/domingueira)** — Automatic attendance system for weekly DMR round on TG 72453
+📋 **[domingueira](https://github.com/danielregis81/domingueira)** — Automatic attendance system for the weekly Brazilian DMR round on TG 72453. Connects to BrandMeister and generates reports.
 
 ## Tech & interests
 
