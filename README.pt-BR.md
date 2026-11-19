@@ -49,7 +49,7 @@ Trabalho com **infraestrutura e microinformática**, atualmente iniciando minha 
 
 ## Contato
 
-- 📧 contato@pp5rd.com.br
+- 📧 contato@danielregis.com.br
 - 🌐 [pp5rd.com.br](https://pp5rd.com.br)
 - 📻 [QRZ.com/db/PP5RD](https://www.qrz.com/db/PP5RD)
 
