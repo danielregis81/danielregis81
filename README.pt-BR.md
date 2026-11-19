@@ -16,6 +16,8 @@ Trabalho com **infraestrutura e microinformática**, atualmente iniciando minha 
 
 📋 **[domingueira](https://github.com/danielregis81/domingueira)** — Sistema automático de lista de presença para a rodada semanal de radioamadores brasileiros no TG 72453. Conecta na BrandMeister e gera relatórios.
 
+🔢 **[pp5rd-dmr](https://github.com/danielregis81/pp5rd-dmr)** — Conversor de base de dados DMR ID. A base do RadioID.net tem campos longos demais para a tela do meu rádio Radtel RT-4D, então fiz esta ferramenta para formatar corretamente.
+
 ## Tecnologias e interesses
 
 - **Radioamadorismo**: DMR, Pi-Star, hotspots, SDR (RTL-SDR, decodificação TETRA)

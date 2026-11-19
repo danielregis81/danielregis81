@@ -16,6 +16,8 @@ I work in **infrastructure and IT support**, currently starting my journey into 
 
 📋 **[domingueira](https://github.com/danielregis81/domingueira)** — Automatic attendance system for the weekly Brazilian DMR round on TG 72453. Connects to BrandMeister and generates reports.
 
+🔢 **[pp5rd-dmr](https://github.com/danielregis81/pp5rd-dmr)** — DMR ID database converter. The RadioID.net database has fields too long for my Radtel RT-4D's display, so I built this tool to format it properly.
+
 ## Tech & interests
 
 - **Amateur radio**: DMR, Pi-Star, hotspots, SDR (RTL-SDR, TETRA decoding)
