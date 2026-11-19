@@ -22,6 +22,8 @@ Trabalho com **infraestrutura e microinformática**, atualmente iniciando minha 
 
 🔊 **[onair-codecs](https://github.com/danielregis81/onair-codecs)** — Plugins de codec de voz DMR (AMBE+2) e TETRA para o receptor SDR OnAir (Windows). Construído em torno do mbelib-neo.
 
+⏰ **[CYD](https://github.com/danielregis81/CYD)** — Relógio digital com previsão do tempo e alarmes para display ESP32 CYD 2.8". Meu primeiro projeto com Arduino e CYD — portal captive para config WiFi, sincronização NTP, integração com OpenWeatherMap.
+
 ## Tecnologias e interesses
 
 - **Radioamadorismo**: DMR, Pi-Star, hotspots, SDR (RTL-SDR, decodificação TETRA)
