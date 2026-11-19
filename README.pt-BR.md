@@ -12,6 +12,8 @@ Trabalho com **infraestrutura e microinformática**, atualmente iniciando minha 
 
 📻 **[pistar-cyd-panel](https://github.com/danielregis81/pistar-cyd-panel)** — Painel "quem está falando" para hotspot DMR Pi-Star em display ESP32 CYD. Meu hotspot tem uma telinha OLED de 0.96", então construí este painel externo para mostrar mais informações: bandeira, nome, país, tempo de QSO e mais.
 
+🚩 **[pistar-flags-dash](https://github.com/danielregis81/pistar-flags-dash)** — Bandeiras de países, nome do operador e código do país na lista Last Heard do dashboard oficial do Pi-Star. Leve o suficiente para rodar em um Raspberry Pi Zero W.
+
 📱 **[pp5rd-status-app](https://github.com/danielregis81/pp5rd-status-app)** — Dashboard Android para monitorar servidor doméstico, feito para um celular antigo reaproveitado. Começou como uma versão Android do painel CYD e cresceu para um monitor completo de 6 telas.
 
 📋 **[domingueira](https://github.com/danielregis81/domingueira)** — Sistema automático de lista de presença para a rodada semanal de radioamadores brasileiros no TG 72453. Conecta na BrandMeister e gera relatórios.
